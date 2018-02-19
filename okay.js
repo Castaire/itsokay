@@ -17,7 +17,7 @@ const ss = new Snoostorm(s);
 // set stream options
 const streamOpts = {
 	subreddit: 'testingground4bots',
-	results: 25
+	results: 
 }
 
 
