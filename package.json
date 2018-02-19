@@ -1,0 +1,25 @@
+{
+  "name": "itsokay",
+  "version": "1.0.0",
+  "description": "a simple reddit bot to rearrange flipped tables",
+  "main": "okay.js",
+  "scripts": {
+    "build": "node okay.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Castaire/itsokay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Castaire/itsokay/issues"
+  },
+  "homepage": "https://github.com/Castaire/itsokay#readme",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.2"
+  }
+}
